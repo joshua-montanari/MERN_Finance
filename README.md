@@ -4,5 +4,5 @@
 ### `To start`
 *need to install node-modules ('npm install')*
 
-Run script 'npm run dev'
+Run script `npm run dev`
 
